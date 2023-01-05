@@ -1,0 +1,2 @@
+# Computer_RGB_mean
+计算数据集的RGB均值，其均值会用来作为SwinIR的数据预处理
