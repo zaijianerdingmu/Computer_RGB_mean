@@ -2,7 +2,7 @@ import os
 import cv2
 import numpy as np
  
-path = 'C:/Users/WangChun/Desktop/junzhi/X2/'
+path = 'C:/Users/17865/Desktop/junzhi/'
 def compute(path):
   file_names = os.listdir(path)
   per_image_Rmean = []
